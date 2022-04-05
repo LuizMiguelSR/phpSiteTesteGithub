@@ -24,7 +24,7 @@
             </nav>
             <h2 class="container-fluid">Implementação em php</h2>
             <?php
-                echo "<p class='container-fluid'> Este é um teste de implementação em PHP na Azure </p>";
+                echo "<p class='container-fluid'> Este é um teste de implementação em PHP 8.0 utilizando o GitHub nos servidores da Azure </p>";
             ?>
         </body>
         <footer class="py-3 my-4">
