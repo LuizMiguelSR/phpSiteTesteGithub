@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'phpsitetestegithub'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B64ADFD41D443D3AEE136FAC5ED42DE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42DCCDBF09F94375958E6637A34DA213 }}
           package: .
